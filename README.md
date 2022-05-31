@@ -28,10 +28,11 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 
 ## Bit Manipulation
 
-| Problem          | Status           |
-| ---------------- | ---------------- |
-| Number of 1 Bits | ✅ Completed     |
-|                  | ❌ Not Completed |
-|                  | ❌ Not Completed |
-|                  | ❌ Not Completed |
-|                  | ❌ Not Completed |
+| Problem             | Status           |
+| ------------------- | ---------------- |
+| Single Number       | ✅ Completed     |
+| Number of 1 Bits    | ✅ Completed     |
+| Counting Bits       | ❌ Not Completed |
+| Reverse Bits        | ❌ Not Completed |
+| Missing Number      | ❌ Not Completed |
+| Sum of Two Integers | ❌ Not Completed |
