@@ -26,6 +26,29 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 | Container with Most Water | ❌ Not Completed |
 | Trapping Rain Water       | ❌ Not Completed |
 
+## Sliding Window
+
+| Problem                                        | Status           |
+| ---------------------------------------------- | ---------------- |
+| Best Time to Buy & Sell Stock                  | ❌ Not Completed |
+| Longest Substring Without Repeating Characters | ❌ Not Completed |
+| Longest Repeating Character Replacement        | ❌ Not Completed |
+| Permutation in String                          | ❌ Not Completed |
+| Minimum Window Substring                       | ❌ Not Completed |
+| Sliding Window Maximum                         | ❌ Not Completed |
+
+## Stack
+
+| Problem                          | Status           |
+| -------------------------------- | ---------------- |
+| Valid Parentheses                | ❌ Not Completed |
+| Min Stack                        | ❌ Not Completed |
+| Evaluate Reverse Polish Notation | ❌ Not Completed |
+| Generate Parentheses             | ❌ Not Completed |
+| Daily Temperatures               | ❌ Not Completed |
+| Car Fleet                        | ❌ Not Completed |
+| Largest Rectangle in Histogram   | ❌ Not Completed |
+
 ## Bit Manipulation
 
 | Problem             | Status           |
