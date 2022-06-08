@@ -6,10 +6,10 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 
 | Problem                      | Satus            |
 | ---------------------------- | ---------------- |
-| Contains Duplicate           | ❌ Not Completed |
-| Valid Anagram                | ❌ Not Completed |
-| Two Sum                      | ❌ Not Completed |
-| Group Anagrams               | ❌ Not Completed |
+| Contains Duplicate           | ✅ Not Completed |
+| Valid Anagram                | ✅ Not Completed |
+| Two Sum                      | ✅ Not Completed |
+| Group Anagrams               | ✅ Not Completed |
 | Top K Frequent Elements      | ❌ Not Completed |
 | Product of Array Except Self | ❌ Not Completed |
 | Valid Sudoku                 | ✅ Completed     |
@@ -20,10 +20,10 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 
 | Problem                   | Status           |
 | ------------------------- | ---------------- |
-| Valid Palindrome          | ❌ Not Completed |
-| Two Sum II                | ❌ Not Completed |
-| 3Sum                      | ❌ Not Completed |
-| Container with Most Water | ❌ Not Completed |
+| Valid Palindrome          | ✅ Not Completed |
+| Two Sum II                | ✅ Not Completed |
+| 3Sum                      | ✅ Not Completed |
+| Container with Most Water | ✅ Not Completed |
 | Trapping Rain Water       | ❌ Not Completed |
 
 ## Sliding Window
