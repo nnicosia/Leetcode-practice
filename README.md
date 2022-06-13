@@ -6,10 +6,10 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 
 | Problem                      | Satus            |
 | ---------------------------- | ---------------- |
-| Contains Duplicate           | ✅ Not Completed |
-| Valid Anagram                | ✅ Not Completed |
-| Two Sum                      | ✅ Not Completed |
-| Group Anagrams               | ✅ Not Completed |
+| Contains Duplicate           | ✅ Completed     |
+| Valid Anagram                | ✅ Completed     |
+| Two Sum                      | ✅ Completed     |
+| Group Anagrams               | ✅ Completed     |
 | Top K Frequent Elements      | ❌ Not Completed |
 | Product of Array Except Self | ❌ Not Completed |
 | Valid Sudoku                 | ✅ Completed     |
@@ -20,10 +20,10 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 
 | Problem                   | Status           |
 | ------------------------- | ---------------- |
-| Valid Palindrome          | ✅ Not Completed |
-| Two Sum II                | ✅ Not Completed |
-| 3Sum                      | ✅ Not Completed |
-| Container with Most Water | ✅ Not Completed |
+| Valid Palindrome          | ✅ Completed     |
+| Two Sum II                | ✅ Completed     |
+| 3Sum                      | ✅ Completed     |
+| Container with Most Water | ✅ Completed     |
 | Trapping Rain Water       | ❌ Not Completed |
 
 ## Sliding Window
@@ -41,13 +41,25 @@ A monorepo to store leetcode pratice problems. Using https://neetcode.io/ as a r
 
 | Problem                          | Status           |
 | -------------------------------- | ---------------- |
-| Valid Parentheses                | ❌ Not Completed |
-| Min Stack                        | ❌ Not Completed |
-| Evaluate Reverse Polish Notation | ❌ Not Completed |
+| Valid Parentheses                | ✅ Completed     |
+| Min Stack                        | ✅ Completed     |
+| Evaluate Reverse Polish Notation | ✅ Completed     |
 | Generate Parentheses             | ❌ Not Completed |
 | Daily Temperatures               | ❌ Not Completed |
 | Car Fleet                        | ❌ Not Completed |
 | Largest Rectangle in Histogram   | ❌ Not Completed |
+
+## Binary Search
+
+| Problem                          | Status           |
+| -------------------------------- | ---------------- |
+| Binary Search                    | ✅ Completed     |
+| Search a 2D Matrix               | ✅ Completed     |
+| Koko Eating Bananas              | ❌ Not Completed |
+| Search Rotated Sorted Array      | ❌ Not Completed |
+| Find Minimum in Rotated Array    | ❌ Not Completed |
+| Time Based Key-Value Store       | ❌ Not Completed |
+| Find Median of Two Sorted Arrays | ❌ Not Completed |
 
 ## Bit Manipulation
 
